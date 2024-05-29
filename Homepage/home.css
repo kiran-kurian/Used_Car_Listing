@@ -1,0 +1,79 @@
+body
+{
+    background-image: url("https://c1.wallpaperflare.com/preview/508/250/386/porsche-oldtimer-m%C3%BChlheim-mulhouse.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: max-content;
+  }
+h1
+{
+    position: relative;
+    display: flex;
+    text-align: center;
+    color: azure;
+    top: 65px;
+    left: 500px;
+    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+}
+a
+{
+    border: none;
+    width: 80px;
+    height: 30px;
+    position: relative;
+    left: 1100px;
+}
+ .login
+{
+    display: flex;
+    position: relative;
+    top: 10px;
+    left: 30px;
+    
+      
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }  
+#log
+{
+    display: flex;
+    position: relative;
+    background: none;
+    color: azure;
+    text-align: center;
+    font-size: larger; 
+    right: 10px;
+}
+#sign
+{
+    display: flex;
+    position: relative;
+    background: none;
+    color: azure;
+    text-align: center;
+    font-size: large;
+    bottom: 23px;
+}
+.signup
+{
+    display: flex;
+    position: relative;
+    left: 100px;
+    bottom: 25px;
+}
+#add
+{
+    position: relative;
+    display: flex;
+    right: 30px;
+}

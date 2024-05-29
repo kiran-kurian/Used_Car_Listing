@@ -1,0 +1,28 @@
+h1
+{
+    text-align: center;
+}
+h3
+{
+    text-align: center;
+}
+body
+{
+    top: 60px;
+    position: relative;
+    display: flex;
+}
+button
+{
+    position: relative;
+    height: 50px;
+    top: 330px;
+    right: 650px;
+}
+.mb-3
+{
+    position: relative;
+    /* display: flex; */
+    width: 500px;
+    left: 350px;
+}

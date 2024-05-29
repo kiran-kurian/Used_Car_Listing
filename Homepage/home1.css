@@ -1,0 +1,65 @@
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 12px 30px;
+    width: auto;
+    text-align: justify;
+    text-decoration: none;
+    display: inline-block;
+    
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }  
+
+h1
+{
+    position: relative;
+    display: flex;
+    text-align: center;
+    color: azure;
+    top: 65px;
+    left: 500px;
+    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+}
+a
+{
+    border: none;
+    width: 80px;
+    height: 30px;
+    position: relative;
+    left: 100px;
+    top: 60px;
+}
+.card
+{
+    display: flex;
+    position: relative;
+    top: 80px;
+}
+.login
+{
+    display: flex;
+    position: relative;
+    
+    left: 400px;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: space-around;
+}
+
+.card {
+    width: 18rem;
+    margin-bottom: 5px; 
+    background-color: white;
+    color: black;
+}
+body
+{
+    overflow-x: hidden;
+    background-image: url('https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=M3wxMjA3fDB8MXxzZWFyY2h8M3x8YmFja2dyb3VuZCUyMG1hdGVyaWFsfGVufDB8fHx8MTcwMzkzMzgxNnww&ixlib=rb-4.0.3');
+}
